@@ -8,3 +8,4 @@ openpyxl
 tabulate
 docx
 exception
+python-docx
