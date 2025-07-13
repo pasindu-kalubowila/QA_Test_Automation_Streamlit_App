@@ -139,7 +139,19 @@ streamlit run app.py
 ## ✨ Screenshots
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1046/1046784.png" width="180" alt="QE Test Automation Suite">
+  <img width="1919" height="990" alt="home_page" src="https://github.com/user-attachments/assets/39ff951b-2890-4ea1-8274-7ef85ab1bd48" />
+</p>
+
+<p align="center">
+  <img width="1918" height="993" alt="test_case_generate_page" src="https://github.com/user-attachments/assets/2ff025d5-8acb-4e53-a944-a8ae8535bf41" />
+</p>
+
+<p align="center">
+  <img width="1918" height="995" alt="test_automation_page" src="https://github.com/user-attachments/assets/29490b51-ac83-403a-bd9d-38dd1a2caf4f" />
+</p>
+
+<p align="center">
+  <img width="1916" height="946" alt="generate_test_case_from_requirement" src="https://github.com/user-attachments/assets/344ed5f8-b66e-476e-9c84-fd81a105ae33" />
 </p>
 
 ---
